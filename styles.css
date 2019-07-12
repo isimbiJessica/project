@@ -5,10 +5,10 @@
 }
 #second{
     background:burlywood;
-    margin-right: 30px;
+    text-align: center
 }
 li a:hover {
-    color: white;
+    color: black;
 }
 .mine {
     text-align: center;
@@ -78,5 +78,11 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
-
+#minus {
+    background: burlywood;
+    text-align: center;
+}
+#club {
+    padding: 90px;
+}
 
