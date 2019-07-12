@@ -23,11 +23,13 @@ nav>ul>li
 }
 body{
     background-color:burlywood;
+    padding: 50px 50px 50px;
 }
 .two {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
+
 
 
 
