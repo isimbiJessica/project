@@ -83,6 +83,14 @@ body{
     text-align: center;
 }
 #club {
-    padding: 90px;
+    padding: 10px;
+    background-color: burlywood;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
 
