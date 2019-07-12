@@ -13,12 +13,21 @@
     top: 40%;
     left: 50%
 }
-li {
-    margin: 10px 30px;
-    display: inline-block;
-    font-size: 60px;
-    padding: 40px 40px;
-    color: blueviolet;
-    border: 1px solid blueviolet;
-    border-radius: 20%;
+nav>ul>li
+{
+  display:inline-block;
+  flex-direction:row;
+  margin:2em 2em;
+  text-transform:"UpperCase";
+  text-align: center;
 }
+body{
+    background-color:burlywood;
+}
+.two {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+
