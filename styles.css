@@ -22,14 +22,38 @@ nav>ul>li
   text-align: center;
 }
 body{
-    background-color:burlywood;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4slGYBRGvDMrcclxPYlhpMwaVWrzd8FCu5tS5baagM7gcE8m");
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 50px 50px 50px;
 }
-.two {
+#two {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.four {
+    display: flex;
+    flex-direction: row;
+}
+#fouro {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+    padding: 50px;
+    width: -560px;
+    left: 30px;
 
+}
+   
+
+   
+
+#fourt {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
 
 
 
