@@ -3,6 +3,13 @@
     color: blueviolet;
     background-color: black;
 }
+#second{
+    background:burlywood;
+    margin-right: 30px;
+}
+li a:hover {
+    color: white;
+}
 .mine {
     text-align: center;
     color: blueviolet;
@@ -20,40 +27,56 @@ nav>ul>li
   margin:2em 2em;
   text-transform:"UpperCase";
   text-align: center;
+  color: white;
 }
+
 body{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4slGYBRGvDMrcclxPYlhpMwaVWrzd8FCu5tS5baagM7gcE8m");
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 50px 50px 50px;
+   margin-left: 10%;
+   margin-right: 10%;
 }
 #two {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .four {
+    background: burlywood;
     display: flex;
     flex-direction: row;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #fouro {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     text-align: center;
-    padding: 50px;
-    width: -560px;
+    padding: 140px;
+
     left: 30px;
+    font-size: 20px;
+
 
 }
-   
-
-   
-
 #fourt {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
 }
-
+.empas {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.empass {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.empassi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.empassiz {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
 
 
