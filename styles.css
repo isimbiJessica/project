@@ -65,14 +65,17 @@ body{
 .empas {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    text-align: center;
 }
 .empass {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    text-align: center;
 }
 .empassi {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    text-align: center;
 }
 .empassiz {
     font-family: Arial, Helvetica, sans-serif;
@@ -89,6 +92,9 @@ body{
     margin-bottom: 0px;
 }
 body{
+    background-image: url("https://images.unsplash.com/photo-1507936580189-3816b4abf640?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-left: 10%;
     margin-right: 10%;
 
