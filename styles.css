@@ -286,4 +286,10 @@ img:hover
 {
   opacity:0.5;
 }
+#fo {
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Literata', serif;
+    color: blue;
+}
 
