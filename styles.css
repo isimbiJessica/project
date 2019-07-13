@@ -37,6 +37,7 @@ body{
 #two {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
 }
 .four {
     background: burlywood;
@@ -82,14 +83,19 @@ body{
     font-size: 20px;
 }
 #minus {
-    background: black;
+    padding: 10px;
+    background-color: black;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    color: white;
     text-align: center;
 }
 #club {
     padding: 10px;
-    background-color: burlywood;
+    background-color: black;
     margin-top: 60px;
     margin-bottom: 0px;
+    color: white;
 }
 body{
     background-image: url("https://images.unsplash.com/photo-1507936580189-3816b4abf640?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
@@ -99,4 +105,7 @@ body{
     margin-right: 10%;
 
 }
-
+ho {
+    text-align: center;
+    color: white;
+}
