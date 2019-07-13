@@ -1,7 +1,7 @@
 .amen {
     text-align: center;
     color: blueviolet;
-    background-color: black;
+    
 }
 #second{
     background-color: black;
@@ -13,7 +13,6 @@ li a:hover {
 .mine {
     text-align: center;
     color: blueviolet;
-    background-color: black;
 }
 .media {
     position: absolute;
@@ -113,4 +112,7 @@ a{
     margin-right: 10px;
     margin-block-end: 10px;
 
+}
+#edu {
+    text-align: center;
 }
