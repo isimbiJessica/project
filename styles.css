@@ -150,3 +150,140 @@ a{
     margin: 2em 2em;
 
 }
+
+.container
+{
+  background-image:url("https://cdn.pixabay.com/photo/2016/07/11/21/23/water-lily-1510707__340.jpg");
+  height:560px;
+  width:130%;
+  background-repeat:no-repeat;
+  background-size:cover;
+  
+}
+h1
+{ text-align:center;
+color:purple;
+text-shadow:0.1em 0.1em black;
+font:roboto;
+font-size:50px;
+
+}
+.ali
+{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  margin-top:400px;
+  
+}
+.all
+{
+ display:flex;
+  flex-direction:row;
+justify-content:space-around;
+}
+#har
+{
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4);
+  color: white;
+  font-weight: bold;
+  border: 1px solid #f1f1f1;
+  position: absolute;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  padding: 20px;
+  text-align: center;
+}
+h2
+{
+  text-align:center;
+  font-weight:bold;
+}
+p
+{
+  font-weight:bold;
+  font-size:20px;
+}
+
+.alin
+{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+}
+.alln
+{
+ display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+}
+.fa
+{
+ color:black;
+ margin:20px;
+ text-decoration:none;
+}
+.fa:hover
+{
+  background-color:white;
+}
+ h2
+ {
+   color:purple;
+ }
+
+.fine
+{
+  background-image:url("https://images.unsplash.com/photo-1458929526027-052f5d6a3c5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  width:100%;
+  background-repeat:no repeat;
+  background-size:cover;
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  
+  
+}
+#seed
+{
+  text-align:center;
+}
+    form
+    {
+      float:right;
+      width:400;
+      padding:2em;
+      border:2em 2em solid green;
+      border-radius: 3em;
+    }
+   label 
+   {
+  display: inline-block;
+  width: 90px;
+padding:15px;
+}
+input, textarea
+{
+  font:roboto;
+}
+body
+{
+  padding:25px 25px ;
+}
+
+#img1
+{
+  margin-top:68px;
+}
+#bottle
+{
+   margin-top:75px;
+  margin-bottom:-300px;
+}
+img:hover
+{
+  opacity:0.5;
+}
+
