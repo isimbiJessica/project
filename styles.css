@@ -1,6 +1,6 @@
 .amen {
     text-align: center;
-    color: blueviolet;
+    color: white;
     
 }
 #second{
@@ -12,7 +12,7 @@ li a:hover {
 }
 .mine {
     text-align: center;
-    color: blueviolet;
+    color: white;
 }
 .media {
     position: absolute;
@@ -102,7 +102,7 @@ body{
     background-size: cover;
     margin-left: 10%;
     margin-right: 10%;
-
+    filter: blur(0.6px);
 }
 a{
     text-align: center;
@@ -115,4 +115,11 @@ a{
 }
 #edu {
     text-align: center;
+    color: white;
+}
+#edui {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
 }
