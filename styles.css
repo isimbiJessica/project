@@ -4,11 +4,11 @@
     background-color: black;
 }
 #second{
-    background:burlywood;
+    background-color: black;
     text-align: center
 }
 li a:hover {
-    color: black;
+    color: white;
 }
 .mine {
     text-align: center;
@@ -82,7 +82,7 @@ body{
     font-size: 20px;
 }
 #minus {
-    background: burlywood;
+    background: black;
     text-align: center;
 }
 #club {
