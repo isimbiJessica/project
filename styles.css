@@ -25,9 +25,7 @@ li a:hover {
     font-size: 45px;
 
 }
-.meia :hover {
-    color: blueviolet;
-}
+
 nav>ul>li
 {
   display:inline-block;
@@ -139,4 +137,16 @@ a{
     color: white;
     font: size 25px;
     margin-left: 23%;
+}
+#header {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.right {
+    color: white;
+    margin-left: 45px;
+    font-size: 25px;
+    margin: 2em 2em;
+
 }
