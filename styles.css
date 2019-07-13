@@ -8,7 +8,7 @@
     text-align: center
 }
 li a:hover {
-    color: white;
+    color: blue;
 }
 .mine {
     text-align: center;
@@ -105,7 +105,12 @@ body{
     margin-right: 10%;
 
 }
-ho {
+a{
     text-align: center;
     color: white;
+}
+.vasse {
+    margin-right: 10px;
+    margin-block-end: 10px;
+
 }
