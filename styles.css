@@ -15,17 +15,18 @@ li a:hover {
     color: white;
 }
 .media {
-    color:black;
-    margin:20px;
+    color:blueviolet;
+    margin:15px;
     text-decoration:none;
     display:inline-block;
     display: flex;
     flex-direction:row;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    font-size: 45px;
 
 }
-.media:hover {
-  background-color: black;;
+.meia :hover {
+    color: blueviolet;
 }
 nav>ul>li
 {
@@ -134,6 +135,8 @@ a{
     font-size: 20px;
 
 }
-#well{
-    color: blue;
+#evenly {
+    color: white;
+    font: size 25px;
+    margin-left: 23%;
 }
