@@ -1,4 +1,4 @@
-# project
+# Jessica Ritha's Person Portfolio Project
 ## final project for week 1
 ### PortFolio
 this is my first portfolio
